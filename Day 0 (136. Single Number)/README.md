@@ -22,6 +22,6 @@ While this is a faster and more readable solution, it's still very *pythonic* an
 So for my last approach,
 
 # XOR Bit Manipulation
-Using XOR, if both numbers are the same the values will cancel themselves out leaving only the single number.
+Using XOR, if both numbers are the same, the values will cancel themselves out leaving only the single number.
 
 This solution is both fast and low-space without an external library making this my best solution.
